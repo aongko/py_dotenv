@@ -11,13 +11,7 @@ Install
 
 .. code-block::
 
-    $ pip install -e git+https://github.com/aongko/py_dotenv@master#egg=py_dotenv-0
-
-Clone this project, run:
-
-.. code-block::
-
-    $ python3 setup.py install
+    $ pip install py_dotenv
 
 Example
 =======
